@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.57.1",
     "npm-check-updates": "^17.1.11"
   }
 }
